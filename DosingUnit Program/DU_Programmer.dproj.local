@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/05/09 15:12:24.000.530,=D:\Documents\Local Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2016/05/09 15:16:36.000.981,D:\Documents\Local Documents\Embarcadero\Studio\Projects\Unit7.dfm=D:\Documents\Local Documents\Embarcadero\Studio\Projects\Dosing\Unit7.dfm</Transaction>
+    <Transaction>2016/05/09 15:16:36.000.981,D:\Documents\Local Documents\Embarcadero\Studio\Projects\Unit7.pas=D:\Documents\Local Documents\Embarcadero\Studio\Projects\Dosing\Unit7.pas</Transaction>
+    <Transaction>2016/05/09 15:16:37.000.849,D:\Documents\Local Documents\Embarcadero\Studio\Projects\Project7.dproj=D:\Documents\Local Documents\Embarcadero\Studio\Projects\Dosing\Project7.dproj</Transaction>
+    <Transaction>2016/05/10 10:20:04.719,R:\Delphi\Project\DosingUnit Program\DU_Programmer.dproj=D:\Documents\Local Documents\Embarcadero\Studio\Projects\Dosing\Project7.dproj</Transaction>
+    <Transaction>2016/05/10 10:20:33.950,R:\Delphi\Project\DosingUnit Program\Main.dfm=D:\Documents\Local Documents\Embarcadero\Studio\Projects\Dosing\Unit7.dfm</Transaction>
+    <Transaction>2016/05/10 10:20:33.950,R:\Delphi\Project\DosingUnit Program\Main.pas=D:\Documents\Local Documents\Embarcadero\Studio\Projects\Dosing\Unit7.pas</Transaction>
+  </Transactions>
+</BorlandProject>
