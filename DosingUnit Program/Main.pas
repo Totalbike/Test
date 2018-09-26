@@ -1,42 +1,3 @@
-unit Main;
-
-interface
-
-uses
-  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
-  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, VaComm, VaSystem, Vcl.StdCtrls, VaClasses, Vcl.ExtCtrls, Vcl.ComCtrls;
-
-type
-  TForm7 = class(TForm)
-    VaComm1: TVaComm;
-    Memo1: TMemo;
-    Edit1: TEdit;
-    mmoRX: TMemo;
-    VaCapture1: TVaCapture;
-    Button1: TButton;
-    Button2: TButton;
-    Timer1: TTimer;
-    Button3: TButton;
-    OpenDialog1: TOpenDialog;
-    Button4: TButton;
-    Button5: TButton;
-    ProgressBar1: TProgressBar;
-    procedure VaCapture1Message(Sender: TObject; const Data: AnsiString);
-    procedure Button1Click(Sender: TObject);
-    procedure FormCreate(Sender: TObject);
-    procedure Button2Click(Sender: TObject);
-    procedure Timer1Timer(Sender: TObject);
-    procedure Button3Click(Sender: TObject);
-    procedure Button4Click(Sender: TObject);
-    procedure Button5Click(Sender: TObject);
-  private
-    { Private declarations }
-  public
-  n:integer;
-    { Public declarations }
-
-  end;
-
 var
   Form7: TForm7;
 
@@ -92,6 +53,9 @@ VaComm1.WriteText('CF000000'+CHR(13));
 Delay(200);
 end;
 
+//Troppo complicato
+////////////////////////////345345345345345
+///Un altra modifica
 procedure TForm7.FormCreate(Sender: TObject);
 begin
 VaCapture1.DataFinish := CHR(13);
